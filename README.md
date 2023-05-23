@@ -119,8 +119,8 @@ Normalize our dataset.
 
 ## PROGRAM 
 ```
-Developed by Easwar.J
-Reg no : 212221230024
+Developed by THAMARAISELVAN V
+Reg no : 212221230115
 ```
 ### Importing Libraries
 ```
